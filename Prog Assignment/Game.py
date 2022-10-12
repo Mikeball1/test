@@ -1,5 +1,3 @@
-
-#import app
 import role
 import role2
 import random
@@ -26,7 +24,6 @@ def roleassign(sure,choice):
      Str=role.Str
      HP=role.HP
      Dex=role.Dex
-   # app.check(Str,HP,Dex)
 
 def up(increase):
     global Str

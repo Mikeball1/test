@@ -1,6 +1,6 @@
-from third import *
+import config
+from config import three
 what=three()
 what.TH()
 
-why=two()
-why.MO()
+print(x)
