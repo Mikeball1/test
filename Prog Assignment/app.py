@@ -44,7 +44,7 @@ def inc():
       scroll("\nWould you like to increase the stat, HP, STR, Or DEX?\n")
       increase=input(str(""))
       while increase !='STR' and increase!="HP" and increase!="DEX": #if the user has input anything other than yes or no it will request the user to input the options given until they have
-        scroll ("please input one the given options\n")
+        scroll ("Please input one the given options\n")
         scroll("\nWould you like to increase the stat, HP, STR, Or DEX?\n")
         increase=input(str("")) #Checks to make sure the player is good with their choice
 

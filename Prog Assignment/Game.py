@@ -33,15 +33,15 @@ def up(increase):
         case "STR": 
          Str+=1
          #app
-         scroll("youve increased STR by 1\n")
+         scroll("Youve increased STR by 1\n")
         case "HP":
          HP+=1
          #app
-         scroll("youve increased HP by 1\n")
+         scroll("Youve increased HP by 1\n")
         case "DEX":
          Dex+=1
          #app
-         scroll("youve increased DEX by 1\n")
+         scroll("Youve increased DEX by 1\n")
 
 counter=0
 countere=0 

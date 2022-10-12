@@ -1,4 +1,5 @@
 #Archer role assignment
+
 def assign():
  global Str
  global Dex

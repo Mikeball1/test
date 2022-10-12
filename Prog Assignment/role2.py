@@ -1,3 +1,4 @@
+
 #Swordsman role assignment
 def assign():
   global Str
